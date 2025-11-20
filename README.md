@@ -3,7 +3,7 @@
 ## 🚀 Full Stack (MERN) Developer
 
 📍 **Location:** Indore, India  
-🎓 **Education:** BCA Graduate (2025), Vindhya Institute of Management and Science
+🎓 **Education:** BCA Graduate (2025), Vindhya Institute of Management and Science  
 
 ---
 
@@ -15,119 +15,52 @@ When I'm not coding, you'll find me exploring game development with Unreal Engin
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### **Frontend**
+#### 🧩 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
-- JavaScript, TypeScript
-- React, Next.js (basic), Angular (basic)
-- HTML, CSS, Tailwind CSS
-- Framer Motion
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-8A2BE2?style=for-the-badge&logo=framer&logoColor=ffffff)
 
-### **Backend**
+#### 🏗 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=ffffff)
 
-- Node.js, Express.js
-- FastAPI
+#### 🗄 Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=ffffff)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFB300?style=for-the-badge&logo=firebase&logoColor=000000)
 
-### **Databases**
-
-- MongoDB
-- Firebase (Realtime DB, Firestore)
-- MySQL
-
-### **Services & Tools**
-
-- Firebase Auth
-- Cloudinary
-- Cloud Services & Deployment
-
----
-
-### 🛠️ Skills
-
-<div align="">
-
-  <!-- Frontend -->
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#22c55e; color:#fff; font-size:14px; font-weight:600;">
-    React
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#6366f1; color:#fff; font-size:14px; font-weight:600;">
-    Next.js
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#e11d48; color:#fff; font-size:14px; font-weight:600;">
-    Angular
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#3b82f6; color:#fff; font-size:14px; font-weight:600;">
-    HTML
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#0f766e; color:#fff; font-size:14px; font-weight:600;">
-    CSS
-  </span>
-
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#f97316; color:#fff; font-size:14px; font-weight:600;">
-    JavaScript
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#14b8a6; color:#fff; font-size:14px; font-weight:600;">
-    Tailwind CSS
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#a855f7; color:#fff; font-size:14px; font-weight:600;">
-    Framer Motion
-  </span>
-
-  <!-- Backend -->
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#111827; color:#fff; font-size:14px; font-weight:600;">
-    Node.js
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#4b5563; color:#fff; font-size:14px; font-weight:600;">
-    Express.js
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#6b21a8; color:#fff; font-size:14px; font-weight:600;">
-    FastAPI
-  </span>
-
-  <!-- Database & Cloud -->
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#16a34a; color:#fff; font-size:14px; font-weight:600;">
-    MongoDB
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#facc15; color:#111827; font-size:14px; font-weight:600;">
-    Firebase (Firestore & Realtime DB)
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#0284c7; color:#fff; font-size:14px; font-weight:600;">
-    MySQL
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#fb7185; color:#fff; font-size:14px; font-weight:600;">
-    Firebase Auth
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#f97373; color:#fff; font-size:14px; font-weight:600;">
-    Cloudinary
-  </span>
-
-  <!-- Tools -->
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#111827; color:#fff; font-size:14px; font-weight:600;">
-    Git
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#1f2937; color:#fff; font-size:14px; font-weight:600;">
-    GitHub
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#22c55e; color:#fff; font-size:14px; font-weight:600;">
-    Redux Toolkit
-  </span>
-  <span style="display:inline-block; padding:6px 12px; margin:4px; border-radius:999px; background:#0f766e; color:#fff; font-size:14px; font-weight:600;">
-    Socket.io
-  </span>
-
-</div>
+#### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
 
 ---
 
 ## 💡 Interests
 
-- 🏗️ Building real-world MERN applications
-- ⚙️ Backend development with Node.js
-- ☁️ Cloud services & deployment
-- 🤖 AI/ML powered tools (AI chatbots, AI resume builders, productivity tools)
-- 🎮 Game development (Unreal Engine), Minecraft
-- 📝 Tech content creation
+- 🏗️ Building real-world MERN applications  
+- ⚙️ Backend development with Node.js  
+- ☁️ Cloud services & deployment  
+- 🤖 AI/ML powered tools (AI chatbots, AI resume builders, productivity tools)  
+- 🎮 Game development (Unreal Engine), Minecraft  
+- 📝 Tech content creation  
 
 ---
 
@@ -135,16 +68,14 @@ When I'm not coding, you'll find me exploring game development with Unreal Engin
 
 Here are some of my notable projects:
 
-- **Ecommerce Website** - <https://myshop-eight-green.vercel.app/>
+- **Ecommerce Website** – <https://myshop-eight-green.vercel.app/>  
+  A responsive online store where users can browse products, view details, and manage items in a shopping cart.
 
-  - A responsive online store where users can browse products, view details, and manage items in a shopping cart.
+- **Real Time Chat App** – <https://rt-chat-79zw.vercel.app/>  
+  A real-time messaging app where users can join a room and exchange messages instantly using web sockets.
 
-- **Real Time Chat App** - <https://rt-chat-79zw.vercel.app/>
-
-  - A real-time messaging app where users can join a room and exchange messages instantly using web sockets.
-
-- **Movie Finder** - <https://movie-search-app-weld-kappa.vercel.app/>
-  - A movie search app that lets users find and explore films using a public movie API with details like title, poster and overview.
+- **Movie Finder** – <https://movie-search-app-weld-kappa.vercel.app/>  
+  A movie search app that lets users find and explore films using a public movie API with details like title, poster and overview.
 
 _More projects coming soon!_
 
@@ -152,18 +83,18 @@ _More projects coming soon!_
 
 ## 📚 Currently Learning & Focusing On
 
-- 🔧 Improving my Node.js and backend skills
-- 🏗️ Building full-stack MERN projects
-- 💼 Preparing for developer interviews
-- 🗣️ Improving my communication and spoken English
+- 🔧 Improving my Node.js and backend skills  
+- 🏗️ Building full-stack MERN projects  
+- 💼 Preparing for developer interviews  
+- 🗣️ Improving my communication and spoken English  
 
 ---
 
 ## 🎯 What I'm Looking For
 
-- 💼 **Internship or Junior Developer roles** (Node.js / MERN / Full Stack)
-- 🌐 Opportunities to work on real-world products and APIs
-- 🤝 Collaborations on interesting projects
+- 💼 **Internship or Junior Developer roles** (Node.js / MERN / Full Stack)  
+- 🌐 Opportunities to work on real-world products and APIs  
+- 🤝 Collaborations on interesting projects  
 
 ---
 
@@ -171,10 +102,10 @@ _More projects coming soon!_
 
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about tech!
 
-- 📧 **Email:** amarjeetmistri41@gmail.com
-- 📧 **Zohomail:** amareetmistri41@zohomail.in
-- 💼 **LinkedIn:** https://www.linkedin.com/in/amarjeetmistri
-- 🌐 **Portfolio:** <https://portfolio-nu-eight-t2cvcoyna4.vercel.app/>
+- 📧 **Email:** amarjeetmistri41@gmail.com  
+- 📧 **Zoho Mail:** amareetmistri41@zohomail.in  <!-- check spelling once 🙂 -->
+- 💼 **LinkedIn:** <https://www.linkedin.com/in/amarjeetmistri>  
+- 🌐 **Portfolio:** <https://portfolio-nu-eight-t2cvcoyna4.vercel.app/>  
 
 ---
 
