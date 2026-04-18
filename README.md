@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amarjeet Mistri
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Flutter+Explorer" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Flutter+Developer" alt="Typing SVG" /> </p>
 
 ---
 
