@@ -17,7 +17,6 @@
 class Amar extends Developer {
   final String location   = "Madhya Pradesh, India 🇮🇳";
   final String education  = "BCA · VIMS, Satna";
-  final String currentFocus = "Building Foodie 🍔 — a full-stack food delivery app";
   final String learning   = "System Design · CI/CD · RAG-based AI · Load Balancing";
   final bool   openToWork = true;
 
